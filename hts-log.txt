@@ -1,0 +1,134 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Dec 2022 20:59:31 at https://rootgaming.site/tools/#juan +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+juan
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://rootgaming.site/tools/#gavier -O1 "C:\Users\juanb\OneDrive\Escritorio\test\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+juan
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+juan
+juan
+juan
+21:00:09	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/rojuanxt (from primary/primary)juan
+juanjuan
+21:00:09	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link primary/gavier (from primary/primary)
+
+21:00:14	Error: 	"Not Found" (404) at link https://rootgaming.site/tools/css/style.css (from https://rootgaming.site/tools/)
+
+21:00:19	Error: 	"Not Found" (404) at link https://rootgaming.site/tools/css/bootstrap-icons/boxicons.min.css (from https://rootgaming.site/tools/)
+juan
+21:03:09	Error: 	"Not Found" (404) at link https://rootgaming.site/tools/js/script.js (from https://rootjuan.site/tools/)juan
+juanjuan
+21:03:09	Warning: 	Retry after error -5 (Unable to get servjuanddress: unknown error) at link primary/gavier (from primary/primary)
+juanjuan
+21:12:36	Error: 	"Unable to get server's address: unknown error" juanfter 2 retries at link primary/gavier (from primary/primary)juan
+juan
+21:12:36	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.androjuantube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fgjuan
+juanjuan
+21:12:36	Warning: 	Redirected link is identical because of juanack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+juanjuan
+21:12:36	Warning: 	File has moved from https://www.youtube.com/c/juanYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.ajuan.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+juan
+21:14:27	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/chrome-extension:// (from https://sjuanwhatsapp.net/rsrc.php/v3/yp/r/gjQ_gKw-ct1.js?_nc_x=Ij3Wp8lg5Kz)juan
+juanjuan
+21:21:53	Error: 	"Not Found" (404) at link https://chat.whajuancom/intern/rsrc.php (from https://static.whatsapp.net/rsrc.php/v3/yp/r/gjQ_gKw-ct1.js?_nc_x=Ij3Wp8lg5Kz)
+juanjuan
+21:21:53	Error: 	"Not Found" (404) at link https://chat.whatsapp.juantern/rsrc-translations.php (from https://static.whatsapp.net/rsrc.php/v3/yp/r/gjQ_gKw-ct1.js?_nc_x=Ij3Wp8lg5Kz)juan
+
+21:23:33	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/ajax/photos/snowlift/init.php (from https://static.whatsapp.net/rsrc.php/v3/yp/r/gjQ_gKw-ct1.js?_nc_x=Ij3Wp8lg5Kz)
+
+21:50:03	Warning: 	Warning: store application/octet-stream without scan: C:/Users/juanb/OneDrive/Escritorio/test/1/discord.com/assets/3633d3f53044ef4e496fa370813c5905.svg
+
+21:50:07	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:07	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:07	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	See Other for https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg and https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:50:08	Warning: 	File has moved from https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg to https://www.youtube.com/c/GAVIERYTOFICIAL/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCP2gUcvQwvDZaOzx7STY6Fg
+
+21:53:11	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/^([^:/LYq (from https://chat.whatsapp.com/^([^:/?)
+
+21:53:11	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/^([^:/vgA9nU (from https://chat.whatsapp.com/^([^:/?)
+
+21:53:12	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/^([^:/7xqofE (from https://chat.whatsapp.com/^([^:/?)
+
+21:54:52	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/LYq (from https://chat.whatsapp.com/nw/)
+
+21:54:52	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/vgA9nU (from https://chat.whatsapp.com/nw/)
+
+21:54:52	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/7xqofE (from https://chat.whatsapp.com/nw/)
+
+22:41:05	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/LYq (from https://chat.whatsapp.com/%5E([%5E:/?_fb_noscript=1)
+
+22:41:05	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/vgA9nU (from https://chat.whatsapp.com/%5E([%5E:/?_fb_noscript=1)
+
+22:41:05	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/7xqofE (from https://chat.whatsapp.com/%5E([%5E:/?_fb_noscript=1)
+
+22:41:15	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/u_0_5_8 (from https://chat.whatsapp.com/%5E([%5E:/?lang=tl)
+
+22:41:17	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/u_0_6_y (from https://chat.whatsapp.com/%5E([%5E:/?lang=ro)
+
+22:41:24	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/u_0_7_M (from https://chat.whatsapp.com/%5E([%5E:/?lang=ar)
+
+22:41:28	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/u_0_1_ (from https://chat.whatsapp.com/%5E([%5E:/?lang=ml)
+
+22:41:31	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/%5E([%5E:/u_0_4_N (from https://chat.whatsapp.com/%5E([%5E:/?lang=zh_tw)
+
+22:41:35	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_4_U (from https://chat.whatsapp.com/nw/?lang=ms)
+
+22:41:43	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_1_F (from https://chat.whatsapp.com/nw/?lang=fr)
+
+22:41:45	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_7_7 (from https://chat.whatsapp.com/nw/?lang=ga)
+
+22:41:45	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/__elem_a588f507_0_0_E (from https://chat.whatsapp.com/nw/?lang=hr)
+
+22:41:50	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_5_S (from https://chat.whatsapp.com/nw/?lang=nl)
+
+22:41:51	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_1_O (from https://chat.whatsapp.com/nw/?lang=nb)
+
+22:41:51	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/__elem_bb0debb2_0_1_4 (from https://chat.whatsapp.com/nw/?lang=nb)
+
+22:41:52	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_6_u (from https://chat.whatsapp.com/nw/?lang=tl)
+
+22:41:52	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/__elem_bb0debb2_0_1_Q (from https://chat.whatsapp.com/nw/?lang=tl)
+
+22:42:01	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_0_9 (from https://chat.whatsapp.com/nw/?lang=uk)
+
+22:42:01	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/u_0_1_W (from https://chat.whatsapp.com/nw/?lang=uk)
+
+22:42:04	Error: 	"Not Found" (404) at link https://chat.whatsapp.com/nw/__elem_bb0debb2_0_1_o (from https://chat.whatsapp.com/nw/?lang=bn)
+
